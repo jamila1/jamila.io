@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://jamila.github.io/sitemap.xml
